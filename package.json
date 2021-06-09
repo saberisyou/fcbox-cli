@@ -1,0 +1,34 @@
+{
+  "name": "yue-cli",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "app": "./bin/app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.1",
+    "clear": "^0.1.0",
+    "cli-table2": "^0.2.0",
+    "commander": "^7.2.0",
+    "download-git-repo": "^3.0.2",
+    "figlet": "^1.5.0",
+    "handlebars": "^4.7.7",
+    "inquirer": "^8.1.0",
+    "open": "^8.1.0",
+    "ora": "^5.4.0",
+    "sequelize": "^6.6.2",
+    "sequelize-cli": "^6.2.0",
+    "superagent": "^6.1.0",
+    "zdex-downloadgitrepo": "^1.2.0"
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "devDependencies": {},
+  "description": ""
+}
