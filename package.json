@@ -23,8 +23,7 @@
     "ora": "^5.4.0",
     "sequelize": "^6.6.2",
     "sequelize-cli": "^6.2.0",
-    "superagent": "^6.1.0",
-    "zdex-downloadgitrepo": "^1.2.0"
+    "superagent": "^6.1.0"
   },
   "directories": {
     "lib": "lib"
